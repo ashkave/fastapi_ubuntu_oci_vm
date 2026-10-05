@@ -1,0 +1,6 @@
+venv/
+__pycache__
+app/
+app_orm_sqlalchemy/
+.env
+sample/
